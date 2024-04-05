@@ -51,7 +51,7 @@
   position: absolute;
 }
 .main-header {
-  top: 0px;
+  top: -15px;
   left: 380px;
   width: 521px;
   height: 106px;
@@ -142,7 +142,7 @@
   left: 90px;
   color: rgba(0, 0, 0, 1);
   width: 1100px;
-  bottom: 730px;
+  bottom: 810px;
   height: auto;
   position: absolute;
   font-size: 96px;
@@ -155,7 +155,7 @@
   text-decoration: none;
 }
 .main-text016 {
-  top: 964px;
+  top: 938px;
   left: 337px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -171,7 +171,7 @@
   text-decoration: none;
 }
 .main-text018 {
-  top: 3197px;
+  top: 3120px;
   left: 336px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -187,7 +187,7 @@
   text-decoration: none;
 }
 .main-text020 {
-  top: 6425px;
+  top: 6365px;
   left: 336px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -203,7 +203,7 @@
   text-decoration: none;
 }
 .main-text022 {
-  top: 8236px;
+  top: 8160px;
   left: 346px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -222,7 +222,7 @@
   left: 345px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
-  bottom: 387px;
+  bottom: 438px;
   height: auto;
   position: absolute;
   font-size: 64px;
@@ -235,7 +235,7 @@
   text-decoration: none;
 }
 .main-text026 {
-  top: 6752px;
+  top: 6700px;
   left: 336px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -254,7 +254,7 @@
   left: 346px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
-  bottom: 1238px;
+  bottom: 1278px;
   height: auto;
   position: absolute;
   font-size: 64px;
@@ -267,7 +267,7 @@
   text-decoration: none;
 }
 .main-text030 {
-  top: 1344px;
+  top: 1284px;
   left: 336px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -299,7 +299,7 @@
   text-decoration: none;
 }
 .main-text034 {
-  top: 1734px;
+  top: 1679px;
   left: 337px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -315,7 +315,7 @@
   text-decoration: none;
 }
 .main-text036 {
-  top: 5077px;
+  top: 4927px;
   left: 336px;
   color: rgba(0, 0, 0, 1);
   width: 588px;
@@ -337,7 +337,7 @@
   width: 1232px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -352,7 +352,7 @@
   width: 1280px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -397,7 +397,7 @@
   width: 1276px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -429,13 +429,13 @@
   text-decoration: UNDERLINE;
 }
 .main-text060 {
-  top: 1852px;
+  top: 1822px;
   left: -106px;
   color: rgba(0, 0, 0, 1);
   width: 1473px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -451,7 +451,7 @@
   width: 1281px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -466,7 +466,7 @@
   width: 1281px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -533,7 +533,7 @@
   width: 1280px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -565,7 +565,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -581,7 +581,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -614,7 +614,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -638,7 +638,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -654,7 +654,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -670,7 +670,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -686,7 +686,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -710,7 +710,7 @@
   width: 1243px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
@@ -761,13 +761,13 @@
   font-weight: 400;
 }
 .main-text126 {
-  top: 5196px;
+  top: 5040px;
   left: 37px;
   color: rgba(0, 0, 0, 1);
   width: 1187px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 28px;
   font-style: Regular;
   text-align: center;
   font-family: Jost;
